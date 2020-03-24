@@ -1,0 +1,36 @@
+[<p><b>檔案分享</b>（英語：<span lang="en">File sharing</span>）是指主動地在網路上（<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91" title="網際網路">網際網路</a>或小的<a href="/wiki/%E5%B1%80%E5%9F%9F%E7%BD%91" title="區域網路">區域網路</a>）分享自己的<a href="/wiki/%E9%9B%BB%E8%85%A6%E6%AA%94%E6%A1%88" title="電腦檔案">電腦檔案</a>。一般檔案分享使用<a href="/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF" title="對等網路">P2P</a>模式，檔案本身存在用戶本人的個人電腦上。大多數參加檔案分享的人也同時下載其他用戶提供的分享檔案。有時這兩個行動是連在一起的。
+</p>, <p><a href="/wiki/Napster" title="Napster">Napster</a>是第一個大型的，為許多人使用的檔案分享工具，它本來是一個中央集中的工具，它只分享<a href="/wiki/MP3" title="MP3">MP3</a>檔案，音樂工業在對它進行法律控告後成功地將它關閉了。Napster有一個中心的、在它上面報導的用戶的MP3檔案的目錄，它還包括<a href="/wiki/IRC" title="IRC">IRC</a>似的聊天室和<a href="/wiki/%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A" title="即時通訊">即時通訊</a>功能。幾乎所有新的大的檔案分享服務在設計上都以它為榜樣。
+</p>, <p>在<a href="/wiki/Napster" title="Napster">Napster</a>陷入困境前檔案分享的社群就已經建立了一個新的選擇：OpenNap。它是對Napster的協定進行<a href="/wiki/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B" title="逆向工程">逆向工程</a>後發表的一個<a href="/wiki/%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81" title="開放原始碼">開放原始碼</a>的伺服器，是Napster的一個選擇。這些網路在Napster倒閉後依然存在，許多新的使用這種協定的客戶程式出現了。
+</p>, <p>此後，一個叫做<a href="/wiki/Gnutella" title="Gnutella">Gnutella</a>的分散的網路出現了。這個服務完全是開放原始碼的，它允許用戶尋找任何檔案形式，用戶不僅可以在網路上找到<a href="/wiki/MP3" title="MP3">MP3</a>檔案。它是吸取了Napster這樣的中央集中制的服務的經驗後發展出來的，專門為了對付這樣的服務的弱點。其目的是在個別連接被中斷後依然保證整個網路的執行。
+</p>, <p>今天Napster和Gnutella依然在檔案分享中占支配作用，它們定義了檔案分享的兩個極端。從2003年9月開始<a href="/wiki/%E7%BE%8E%E5%9C%8B%E5%94%B1%E7%89%87%E6%A5%AD%E5%8D%94%E6%9C%83" title="美國唱片業協會">美國唱片工業協會</a>控告了一系列檔案分享服務和用戶。今天，Gnutella依然是一個自由的和開放的協定，而Napster則是一個重建的商業性的網上音樂服務，它與其它商業性服務如<a href="/wiki/ITunes" title="ITunes">iTunes</a>是競爭對手。
+</p>, <p>大多數檔案分享系統位於這兩個極端之間。
+</p>, <p>今天在不同的作業系統上有許多不同的檔案分享程式，它們各有不同的功能。一般商業性的檔案分享程式也分傳廣告或帶有<a href="/wiki/%E9%97%B4%E8%B0%8D%E8%BD%AF%E4%BB%B6" title="間諜軟體">間諜軟體</a>。
+</p>, <p>檔案分享有多個重要的問題，其中兩個最重要，第一個問題是中央集中制還是分散制，第二個是用戶的隱私權和匿名性。後者在<a href="/wiki/%E8%91%97%E4%BD%9C%E6%AC%8A" title="著作權">著作權</a>擁有者對一些檔案分享用戶起訴後成為了一個重要問題。第三個問題是使用所謂的「間諜軟體」收集和出賣用戶資料。
+</p>, <p>早年的<a href="/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF" title="客戶端">客戶端</a>程式只接受一種協定，因此一個客戶端程式要麼只接受Napster要麼只接受Gnutella。當時有一種在客戶端建立一個使用多種協定的軟體的運動。這個運動最主要的目的是一個用戶沒有必要使用不同的程式來做同一件事。
+</p>, <p>有時有的人分享的檔案非常受人歡迎，這樣許多人會想從他那裡獲得這個檔案，這有可能導致這個人的系統無法滿足所有的需要。分散制是減輕這個問題的一個辦法，尤其是假如有許多人在分享這個檔案的話，那麼這個檔案可以從不同的地方來取得。
+</p>, <p>分散制也被用來解決對中央集中制的威脅，這個威脅即可以來自法律控告，也可能來自敵對的用戶。一個分散的網路無法被整個地攻擊，攻擊者只能對其個別成員進行攻擊，而整個網路的剩餘部分依然工作。
+</p>, <p>為了防止有人只收藏別人提供的檔案而不肯分享它們，後來有的系統引入了交換和評分的功能。在這樣的系統中，一個用戶只在他能夠期望獲得報酬的情況下才分享。<a class="new" href="/w/index.php?title=KaZaA&amp;action=edit&amp;redlink=1" title="KaZaA（頁面不存在）">KaZaA</a>使用一種非常簡單的評分系統。客戶端程式計算用戶的優先權並告訴提供檔案的一段該用戶的優先權是多少。但這個系統被發明後不久就有人改變了客戶端程式使得客戶端用戶總是擁有最高的優先權。
+</p>, <p>另一個使用評分系統的客戶端程式是<a href="/wiki/EMule" title="EMule">eMule</a>。eMule的客戶端程式適用<a href="/wiki/%E5%A4%9A%E6%BA%90%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE" title="多原始檔傳輸協定">多重來源檔案傳輸協定</a>，它監視用戶向另一個用戶下載或上傳多少檔案。有時這個評分系統似乎不影響下載的速度。假如用戶有一個空閒的上傳隧道的話，那麼它接受對方，向對方上傳8MB資料，然後將對方放到它的排隊的最後。假如對方的評分為x2的話，那麼對方比起評分為x1的用戶只要等半數的時間就又排到了，用戶再上傳8MB資料。假如雙方互相傳送資料的話，那麼它們相互之間的評分就會不斷上升，傳遞的速度也提高。
+</p>, <p><a class="mw-disambig" href="/wiki/BitTorrent" title="BitTorrent">BitTorrent協定</a>也有非常好的評分系統。假如一個用戶只下載而不上傳的話，那麼他的下載速度就非常低。
+</p>, <p>今天的系統在上傳和下載的功能上和在防止侵犯法律方面的功能上都比較有效。
+</p>, <p>高速網際網路終端普及後匿名的檔案分享系統（如Gnutella和Napster）深受歡迎，此外比較小而品質依然相當高的聲音檔案格式如MP3也為檔案分享的成功提供了一定的幫助。雖然檔案分享本身是一種合法的技術，但有些人（實際上大多數使用檔案分享的用戶）用此下載受著作權保護的檔案。這導致了一些著作權擁有者對檔案分享的反攻。
+</p>, <p>就檔案分享的法律後果問題有很大的爭議。尤其是假如分享檔案的人來自法律不同的國家的話，這個問題會很複雜。比如在有些國家一定程度的加密演算法只有在獲得國家特別允許後才能被個人使用或擁有，而在其它國家裡這個限制可能不存在。假如有人從一個允許使用這樣的演算法的國家裡取得了這樣的演算法的原始碼呢？
+</p>, <p>2000年代初整個檔案分享社群不斷受衝擊。美國唱片工業協會和一些唱片公司企圖關閉越來越多的檔案分享。但他們的努力不很成功，因為不斷有新的系統出現取代被關閉的系統，而且許多這些新的系統沒有中心伺服器，因此使用法庭的方法無法關閉它們，其它的一些系統則逃避到法律無法攻擊它們的國家。
+</p>, <p>檔案分享有許多不同的協定，以下列舉的是最常用和最重要的。
+</p>, <p>Ares是一個類似Gnutella的很普及的網路，其標準（和最普及的）<a class="new" href="/w/index.php?title=Ares_Galaxy&amp;action=edit&amp;redlink=1" title="Ares Galaxy（頁面不存在）">Ares Galaxy</a>客戶端於2005年3月是美國P2P客戶端中第六常用的。大多數使用Ares的是想要接觸儘量多的網路而沒有找到更好的協定的人。
+</p>, <p>BitTorrent協定是唯一廣泛被用在公司分配系統中的檔案分享協定，它的下載速度一般比較高，原因是每個「洪流」為每個檔案或檔案組儲存著其用戶的資訊：相對於其它協定其協定本身比較小，缺點是它沒有尋找功能。此外它不很靈活，另外精確地說它不完全是一個P2P協定。
+</p>, <p>2004年初有人發現BitTorrent比任何其它網際網路檔案分享協定所攜帶的資訊都多。許多人相信這至今未變。
+</p>, <p><a class="new" href="/w/index.php?title=Direct_Connect&amp;action=edit&amp;redlink=1" title="Direct Connect（頁面不存在）">Direct Connect</a>是一種常用於小的網路和大學內部網路中的協定，它尤其適用於這些小網路環境中。<a class="mw-redirect" href="/wiki/DCPlusPlus" title="DCPlusPlus">DC++</a>是其最常見的客戶端程式。
+</p>, <p><a href="/wiki/EDonkey2000" title="EDonkey2000">eDonkey2000</a>和<a href="/wiki/EMule" title="EMule">eMule</a>是<a href="/wiki/EDonkey%E7%BD%91%E7%BB%9C" title="EDonkey網路">eDonkey網路</a>最普及的P2P客戶端程式。它被用來傳送大量資料，其傳送數目僅少於BitTorrent。它比BitTorrent最大的優點是其客戶端程式有一個尋找引擎。用它用戶可以找到許多檔案，比起BitTorrent來它的傳送速度較慢。
+</p>, <p><a href="/wiki/Overnet" title="Overnet">Overnet</a>的設計目的是取代eDonkey，許多eDonkey用戶端程式同時使用Overnet，Overnet沒有中心伺服器，但其用戶數量現在少於eDonkey。
+</p>, <p><a class="mw-redirect" href="/wiki/Kad%E7%BD%91%E7%BB%9C" title="Kad網路">Kad網路</a>很類似Overnet，幾乎只有eDonkey的用戶使用它，但它的普及性也很低。
+</p>, <p><a class="new" href="/w/index.php?title=FastTrack&amp;action=edit&amp;redlink=1" title="FastTrack（頁面不存在）">FastTrack</a>的第一個客戶端程式是KaZaA，它的協定與Gnutella2很相似。從2002年到2003年它是最大的用戶網，但2005年它退到了第三名。
+</p>, <p>這個衰退的原因是因為這個網路無法對付眾多用戶同時使用，而且許多著作權擁有者在網上放入了許多垃圾檔案來阻止受著作權保護的歌曲的交換。
+</p>, <p>KaZaA的用戶端軟體在用戶電腦上設定一個間諜軟體，法庭判決這個間諜軟體違反了著作權，因此不得再繼續使用和分發。
+</p>, <p><a class="new" href="/w/index.php?title=IMesh&amp;action=edit&amp;redlink=1" title="IMesh（頁面不存在）">iMesh</a>也主要使用FastTrack為其協定，此外開放原始碼的<a class="new" href="/w/index.php?title=GiFT&amp;action=edit&amp;redlink=1" title="GiFT（頁面不存在）">GiFT</a>也可以用來連入FastTrack網路。
+</p>, <p>當Napster陷入法律困境時，<a href="/wiki/Nullsoft" title="Nullsoft">Nullsoft</a>的<a class="new" href="/w/index.php?title=%E8%B4%BE%E6%96%AF%E5%BB%B7%C2%B7%E5%BC%97%E5%85%B0%E5%85%8B%E5%B0%94&amp;action=edit&amp;redlink=1" title="賈斯廷·弗蘭克爾（頁面不存在）">賈斯廷·弗蘭克爾</a>發展了Gnutella，Gnutella是第一個真正的非中心的客戶端。此後這個協定獲得了很大的發展。Gnutella對檔案分享有深刻的影響。
+</p>, <p><a class="new" href="/w/index.php?title=Gnutella2&amp;action=edit&amp;redlink=1" title="Gnutella2（頁面不存在）">Gnutella2</a>本來是對Gnutella的一個改進和擴充，它的發展人是<a href="/wiki/Shareaza" title="Shareaza">Shareaza</a>的創始人<a class="new" href="/w/index.php?title=%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%96%AF%E5%A4%9A%E5%85%8B%E6%96%AF&amp;action=edit&amp;redlink=1" title="麥可·斯多克斯（頁面不存在）">麥可·斯多克斯</a>。它提供了一個擴充的封包格式、基於<a class="mw-disambig" href="/wiki/UDP" title="UDP">UDP</a>的搜尋演算法和許多其它擴充比如封包壓縮等等。今天現代的Gnutella客戶端程式都支援這些功能。
+</p>, <p><a class="new" href="/w/index.php?title=OpenNap&amp;action=edit&amp;redlink=1" title="OpenNap（頁面不存在）">OpenNap</a>是對原來的Napster客戶端程式改變後來的，Napster客戶端程式是第一個普及率高的P2P檔案分享程式。今天依然有人在發展它，<a href="/wiki/WinMX" title="WinMX">WinMX</a>等程式使用它。
+</p>, <p>WinNY是<a href="/wiki/Winny" title="Winny">WinNY</a>客戶端程式使用的協定的非正式名稱，它在日本（2005年）很普及，但在亞洲外很少被使用。
+</p>, <p><a class="new" href="/w/index.php?title=WPNP&amp;action=edit&amp;redlink=1" title="WPNP（頁面不存在）">WPNP</a>是WinMX最主要的協定。從2001年到2002年這個網路提供最好的搜尋不明的英語材料的結果，但它最主要被用來搜尋亞洲語言的材料。
+</p>]

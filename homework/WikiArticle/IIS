@@ -1,0 +1,23 @@
+[<p><b>網際網路資訊服務</b>（英語：<span lang="en"><b>Internet Information Services</b>，簡稱<b>IIS</b></span>），在中國大陸被稱為<b>互聯網信息服務</b>，是由<a class="mw-redirect" href="/wiki/%E5%BE%AE%E8%BB%9F%E5%85%AC%E5%8F%B8" title="微軟公司">微軟公司</a>提供的基於運行<a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>的<a class="mw-redirect" href="/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF" title="網際網路">網際網路</a>基本服務。最初是<a href="/wiki/Windows_NT" title="Windows NT">Windows NT</a>版本的可選包，隨後內建在<a href="/wiki/Windows_2000" title="Windows 2000">Windows 2000</a>、<a href="/wiki/Windows_XP" title="Windows XP">Windows XP</a> Professional和<a href="/wiki/Windows_Server_2003" title="Windows Server 2003">Windows Server 2003</a>一起發行，但在Windows XP/Vista/7/8/10 Home版本上並沒有IIS。
+</p>, <p>IIS包括<a class="mw-redirect" href="/wiki/FTP" title="FTP">FTP</a>/<a href="/wiki/FTPS" title="FTPS">FTPS</a>、<a class="mw-redirect" href="/wiki/NNTP" title="NNTP">NNTP</a>、和<a class="mw-redirect" href="/wiki/HTTPS" title="HTTPS">HTTPS</a>／<a class="mw-redirect" href="/wiki/HTTP" title="HTTP">HTTP</a>、<a class="mw-redirect" href="/wiki/SMTP" title="SMTP">SMTP</a>等服務。
+IIS可設定的內容包括：虛擬目錄及存取權限、預設檔案名稱、以及是否允許瀏覽目錄。
+</p>, <p>IIS即為InetInfo.exe處理程序。aspx頁面對映到該處理程序的aspnet ISAPI.DLL上。對aspx頁面，aspnet ISAPI.DLL建立aspnet_wp.exe工作者處理程序（Worker Process）。IIS處理程序與工作者處理程序之間的通信，採用<a href="/wiki/%E5%91%BD%E5%90%8D%E7%AE%A1%E9%81%93" title="命名管道">命名管道</a>。
+</p>, <p>工作者處理程序初始化時載入CLR。一台伺服器只執行一個aspnet_wp.exe工作者處理程序處理程序。每個ASP.NET應用程式在工作者處理程序中有自己單獨的AppDomain。AppDomain有自己單獨的context，實現了安全隔離。
+</p>, <p>IIS 6伺服器通過執行於核心態的協定偵聽器組件Http.sys來接受客戶的http請求。然後檢視該請求的Application屬於哪個套用池，把請求發到相應的套用池的佇列中。 如果該套用池不存在，則建立它。套用池通過工作處理程序隔離來分割ASP.NET應用程式，防止彼此間的干擾。
+</p>, <p>每個套用池對應一個執行在使用者態下的w3wp.exe工作者處理程序。在IIS Metabase 中維護著 Application Pool 和worker process的Mapping。工作者處理程序初始化時，載入ASP.NET ISAPI DLL，該DLL載入CLR。WAS（Web Administrative service）負責排程工作者處理程序將執行套用池佇列中哪個http請求。
+</p>, <p>IIS 7伺服器通過執行於核心態的組件Http.sys（HTTP 協定堆疊）來接受客戶的http請求。再通過Process（Web Process Activation service，WAS）與WWW Pulishing Service（W3SVC）兩個使用者態的系統服務來查詢、排程對應的應用程式池（Application Pool）開啟W3WP.exe工作者處理程序。
+</p>, <p>W3WP.exe工作者處理程序中可選擇經典模式或整合模式來執行ASP.NET套用。
+</p>, <p><b>IIS Express</b>是IIS的輕量化版本，能夠被安裝在Windows XP Service Pack 3與之後版本的Microsoft Windows。IIS 7.5 Express只支援<a class="mw-redirect" href="/wiki/HTTP" title="HTTP">HTTP</a>或<a class="mw-redirect" href="/wiki/HTTPS" title="HTTPS">HTTPS</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>。
+IIS Express可以單獨下載安裝<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>或是為<a class="mw-redirect" href="/wiki/WebMatrix" title="WebMatrix">Microsoft WebMatrix</a>安裝的一部份<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>。另外，<a href="/wiki/Microsoft_Visual_Studio" title="Microsoft Visual Studio">Visual Studio</a> 在編寫網頁 / 網站並測試執行時也使用 IIS Express 提供虛擬站點服務，避免直接開啟本機網頁時頁面上的 JavaScript 由於安全設定而被封鎖。
+</p>, <p>在命令行使用IIS Express：<br/>
+增加一個site：<br/>
+</p>, <p>檢視site列表：<br/>
+</p>, <p>啟動site：<br/>
+</p>, <p>或者<br/>
+</p>, <p>啟動一個臨時網站：<br/>
+</p>, <p>IIS Express 預設只支援本機連接，不能用ip去存取。開啟/關閉外部連接：
+</p>, <p>IIS Express設定檔預設位於「我的文件\IIS Express\Config\」。其中，applicationhost.config是核心設定檔，包含了site的定義、應用程式和應用程式池以及整個WEB伺服器的組態。
+</p>, <p>IIS是在Windows作業系統平台下開發的，這也限制了它只能在這種作業系統下運行。在Windows XP Professional中IIS的一些功能做出了限制，以與Windows Server 2003有所區隔。
+</p>, <p>IIS的發展伴隨著安全漏洞；而隨著IIS 6.0的發布，這種情況有所好轉。在低於6.0的版本中，其<a class="new" href="/w/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85%E6%AC%8A%E9%99%90&amp;action=edit&amp;redlink=1" title="使用者權限（頁面不存在）">使用者權限</a>是系統用戶；而在IIS 6.0中，引入了網路服務帳戶，這是一個限制用戶。這樣，即使服務遭到了破壞，也不會造成系統的癱瘓。
+</p>, <p>Extension<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>]
