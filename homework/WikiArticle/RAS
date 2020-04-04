@@ -1,5 +1,0 @@
-[<p><b>可靠性、可用性和可維護性</b>（<span lang="en"><b>Reliability, Availability and Serviceability</b></span>）是<a class="mw-redirect" href="/wiki/%E9%9B%BB%E8%85%A6" title="電腦">電腦</a><a class="mw-redirect" href="/wiki/%E7%A1%AC%E9%AB%94" title="硬體">硬體</a><a class="mw-disambig" href="/wiki/%E5%B7%A5%E7%A8%8B" title="工程">工程</a>上的術語，最初來自<a href="/wiki/IBM" title="IBM">IBM</a>公司為其<a class="mw-redirect" href="/wiki/%E5%A4%A7%E5%9E%8B%E4%B8%BB%E6%A9%9F" title="大型主機">大型主機</a>所做的宣傳廣告，強調大型主機系統的堅韌強固。如今這個概念已廣為人知，並被簡稱為<b>RAS</b>。
-</p>, <p><a href="/wiki/%E5%8F%AF%E9%9D%A0%E5%BA%A6" title="可靠度">可靠性</a>（Reliability）是指定時間 <i>t</i> 內，產生正式輸出的機率。
-</p>, <p><a href="/wiki/%E5%8F%AF%E7%94%A8%E6%80%A7" title="可用性">可用性</a>（Availability）是指系統的運作時間，工作時間比總時間，一般用百分比表示，例如99.999%（5個9）。
-</p>, <p><a href="/wiki/%E6%9C%8D%E5%8B%99%E6%80%A7_(%E9%9B%BB%E8%85%A6)" title="服務性 (電腦)">可維護性</a>（Serviceability）是指若系統發生故障，需要多長時間檢查和維修。
-</p>]

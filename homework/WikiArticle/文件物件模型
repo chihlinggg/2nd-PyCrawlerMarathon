@@ -1,4 +1,0 @@
-[<p><b>文件物件模型</b>（英語：<span lang="en"><b>Document Object Model</b></span>，縮寫<b><span lang="en">DOM</span></b>），是<a class="mw-redirect" href="/wiki/W3C" title="W3C">W3C</a>組織推薦的處理<a class="mw-redirect" href="/wiki/%E5%8F%AF%E6%89%A9%E5%B1%95%E7%BD%AE%E6%A0%87%E8%AF%AD%E8%A8%80" title="可延伸標示語言">可延伸標示語言</a>的標準程式介面。
-</p>, <p>Document Object Model的歷史可以追溯至1990年代後期微軟與<a class="mw-redirect" href="/wiki/Netscape" title="Netscape">Netscape</a>的「<a href="/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%A4%A7%E6%88%98" title="瀏覽器大戰">瀏覽器大戰</a>」（browser wars），雙方為了在<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>與<a href="/wiki/JScript" title="JScript">JScript</a>一決生死，於是大規模的賦予瀏覽器強大的功能。微軟在網頁技術上加入了不少專屬事物，既有<a href="/wiki/VBScript" title="VBScript">VBScript</a>、<a href="/wiki/ActiveX" title="ActiveX">ActiveX</a>、以及微軟自家的<a class="mw-redirect" href="/wiki/DHTML" title="DHTML">DHTML</a>格式等，使不少網頁使用非微軟平台及瀏覽器無法正常顯示。DOM即是當時醞釀出來的傑作。
-</p>, <p>W3C對DOM進行標準化的動作，目前已經推行至第四代。
-</p>]

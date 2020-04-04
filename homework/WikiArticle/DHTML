@@ -1,7 +1,0 @@
-[<p><b>動態HTML</b>（<b>Dynamic HTML</b>，簡稱<b>DHTML</b>、<b>DHML</b>）指的是網頁內容隨著用戶或電腦程式提供的參數而變化的HTML，通過結合<a href="/wiki/HTML" title="HTML">HTML</a>、用戶端手稿語言（Client Side Script，如<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>）、<a class="mw-redirect" href="/wiki/%E4%B8%B2%E6%8E%A5%E6%A8%A3%E5%BC%8F%E8%A1%A8" title="串接樣式表">串接樣式表</a>（CSS）和<a class="mw-redirect" href="/wiki/%E6%96%87%E4%BB%B6%E7%89%A9%E4%BB%B6%E6%A8%A1%E5%9E%8B" title="文件物件模型">文件物件模型</a>（DOM）來建立動態網頁內容。
-</p>, <p>動態HTML技術根據執行地點，分為客戶端指令碼（也稱瀏覽器指令碼）和伺服器指令碼。
-</p>, <p>最常見的例子包括：
-</p>, <p>一個典型的使用 DHTML 如下:
-</p>, <p>範例如下：<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
-</p>, <p class="mw-empty-elt">
-</p>]

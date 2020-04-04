@@ -1,7 +1,0 @@
-[<p><b>標準通用標記式語言</b>（<span lang="en">Standard Generalized Markup Language</span>，<span lang="en"><b>SGML</b></span>）是現時常用的<a href="/wiki/%E8%B6%85%E6%96%87%E6%9C%AC" title="超文字">超文字</a>格式的最高層次標準，是可以定義標記式語言的<a href="/wiki/%E5%85%83%E8%AA%9E%E8%A8%80" title="元語言">元語言</a>，甚至可以定義不必採用&lt; &gt;的常規方式。由於它的複雜，因而難以普及。
-</p>, <p>以下是它的一個例子：
-</p>, <p>同時它也是一個ISO標準："ISO 8879:1986 Information processing -- Text and office systems -- Standard Generalized Markup Language (SGML)" 
-</p>, <p>它有非常強大的適應性，也正是因為同樣的原因，導致在小型的應用中難以普及。
-</p>, <p><a href="/wiki/HTML" title="HTML">HTML</a>和<a href="/wiki/XML" title="XML">XML</a>同樣衍生於它：XML可以被認為是它的一個子集，而HTML是它的一個應用。
-</p>, <p>XML的產生就是為了簡化它，以便用於更加通用的目的，比如<a class="mw-redirect" href="/wiki/%E8%AF%AD%E4%B9%89Web" title="語意Web">語意Web</a>。它已經應用於大量的場合，比較著名的有<a href="/wiki/XHTML" title="XHTML">XHTML</a>、<a href="/wiki/RSS" title="RSS">RSS</a>、<a href="/wiki/XML-RPC" title="XML-RPC">XML-RPC</a>和<a class="mw-redirect" href="/wiki/SOAP" title="SOAP">SOAP</a>。
-</p>]
